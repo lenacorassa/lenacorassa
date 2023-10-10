@@ -1,23 +1,19 @@
-### Hi! I'm Matheus 🙂
+### Hi! I'm Helena 🙂
 ##
 
 - 🔭 I’m currently studying computer engineering at Universidade de Brasília (University of Brasilia, Brazil).
-- 🌱 I’m currently learning c++, python, web development and machine learning.
-- 📫 You can contact me at matheusfillipe.mfsm@gmail.com.
-- 😄 Pronouns: he/him.
-- 🥜 I really like peanuts.
+- 🌱 I’m currently learning c and python.
+- 📫 You can contact me at helenacorassam@gmail.com.
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=matheusmendoim&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lenacorassa&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusmendoim&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lenacorassa&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusfillipe.mfsm@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/matheus_mendoim)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_mendoim/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-fillipe-de-souza-mendes-743b881b1/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helenacorassam@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/helena-corassa-b2b9b6295)
   
 ##
 <div style="display: inline_block">
