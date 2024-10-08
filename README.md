@@ -1,8 +1,8 @@
 ### Hi! I'm Helena 🙂
 ##
 
-- 🔭 I’m currently studying computer engineering at Universidade de Brasília (University of Brasilia, Brazil).
-- 🌱 I’m currently learning c and python.
+- 🔭 I’m currently studying computer engineering at Universidade do Algarve (Faro, Algarve, Portugal).
+- 🌱 I’m currently learning python.
 - 📫 You can contact me at helenacorassam@gmail.com.
 
 ##
